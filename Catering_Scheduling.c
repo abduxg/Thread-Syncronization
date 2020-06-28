@@ -1,5 +1,4 @@
-//Abdüssamed Güzey - 160316042
-//Hasan Bekir Doğan - 190315077
+
 //Please compile with pthread parameter on gcc
 
 #include <stdio.h>
